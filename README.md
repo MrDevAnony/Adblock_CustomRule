@@ -1,3 +1,1 @@
-# AdguardHome_CustomRole
-
-Custom roles for DynX ADblock dns.
+# Custom rules for DynX ADblock dns.
