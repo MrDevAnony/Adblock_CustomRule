@@ -1,6 +1,7 @@
 # Unblock some domains for better experience
 @@||etahub.com^
 @@||trafficjunky.com^
+@@||trafficjunky.net^
 @@||adtng.com^
 @@||phncdn.com^
 @@||host-tracker.com^
