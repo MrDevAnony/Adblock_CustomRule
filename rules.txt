@@ -24,3 +24,10 @@
 |notebooklm.google.com^$dnsrewrite=104.237.250.13
 |google.dev^$dnsrewrite=104.237.250.13
 |makersuite.google.com^$dnsrewrite=104.237.250.13
+# Youtube adblock
+|youtube.com^$dnsrewrite=195.254.165.40
+|redirector.googlevideo.com^$dnsrewrite=195.254.165.40
+|youtubei.googleapis.com^$dnsrewrite=195.254.165.40
+|s.youtube.com^$dnsrewrite=195.254.165.40
+|m.youtube.com^$dnsrewrite=195.254.165.40
+|www.youtube.com^$dnsrewrite=195.254.165.40
