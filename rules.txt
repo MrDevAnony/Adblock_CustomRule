@@ -14,20 +14,20 @@
 @@||heytapmobi.com^
 @@||ads.telegram.org^$important
 # Rewrite some domains to USA Server for fix 403 and Sanction. 
-|gemini.google.com^$dnsrewrite=104.237.250.13
-|music.youtube.com^$dnsrewrite=104.237.250.13
-|one.google.com.com^$dnsrewrite=104.237.250.13
-|aistudio.google.com^$dnsrewrite=104.237.250.13
-||clients*.google.com^$dnsrewrite=104.237.250.13
-|bard.google.com^$dnsrewrite=104.237.250.13
-|notebooklm.google^$dnsrewrite=104.237.250.13
-|notebooklm.google.com^$dnsrewrite=104.237.250.13
-|google.dev^$dnsrewrite=104.237.250.13
-|makersuite.google.com^$dnsrewrite=104.237.250.13
+#|gemini.google.com^$dnsrewrite=104.237.250.13
+#|music.youtube.com^$dnsrewrite=104.237.250.13
+#|one.google.com.com^$dnsrewrite=104.237.250.13
+#|aistudio.google.com^$dnsrewrite=104.237.250.13
+#||clients*.google.com^$dnsrewrite=104.237.250.13
+#|bard.google.com^$dnsrewrite=104.237.250.13
+#|notebooklm.google^$dnsrewrite=104.237.250.13
+#|notebooklm.google.com^$dnsrewrite=104.237.250.13
+#|google.dev^$dnsrewrite=104.237.250.13
+#|makersuite.google.com^$dnsrewrite=104.237.250.13
 # Youtube adblock
-|youtube.com^$dnsrewrite=195.254.165.40
-|redirector.googlevideo.com^$dnsrewrite=195.254.165.40
-|youtubei.googleapis.com^$dnsrewrite=195.254.165.40
-|s.youtube.com^$dnsrewrite=195.254.165.40
-|m.youtube.com^$dnsrewrite=195.254.165.40
-|www.youtube.com^$dnsrewrite=195.254.165.40
+#|youtube.com^$dnsrewrite=195.254.165.40
+#|redirector.googlevideo.com^$dnsrewrite=195.254.165.40
+#|youtubei.googleapis.com^$dnsrewrite=195.254.165.40
+#|s.youtube.com^$dnsrewrite=195.254.165.40
+#|m.youtube.com^$dnsrewrite=195.254.165.40
+#|www.youtube.com^$dnsrewrite=195.254.165.40
